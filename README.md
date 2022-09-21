@@ -1,1 +1,3 @@
-this is a swift tutorial i followed that implemented MapViews, imageViews, and TextFields. just a fun project to introduce myself to parts of SwiftUI
+A project I built that implemented MapViews, imageViews, and TextFields as a way to introduce myself to experiment with SwiftUI and improve design skills!
+
+Tech Used: Swift
